@@ -439,5 +439,446 @@
         "width": 3,
         "height": 3,
         "output": { "type": "block", "code": "game:spurgear-s", "quantity": 1 }
+    },
+	{
+        "ingredientPattern": "HCX,SLS,R_F",
+        "ingredients": {
+                "X": { "type": "item", "tags": ["tool-saw"], "isTool": true, "toolDurabilityCost": 20 },
+                "H": { "type": "item", "tags": ["tool-hammer"], "isTool": true, "toolDurabilityCost": 20 },
+                "C": { "type": "item", "tags": ["tool-chisel"], "isTool": true, "toolDurabilityCost": 20 },
+                "L": { "type": "block", "code": "game:logsection-placed-*-ud" },
+                "S": { "type": "item", "code": "game:stick", "quantity": 8 },
+                "R": { "type": "item", "code": "game:resin" },
+                "F": { "type": "block", "code": "game:woodbucket" }
+        },
+        "attributes": {
+            "liquidContainerProps": {
+                "requiresContent": { "type": "item", "code": "expandedfoods:foodoilportion-flax" },
+                "requiresLitres": 0.2
+            }
+        },
+        "width": 3,
+        "height": 3,
+        "output": { "type": "block", "code": "game:spurgear-s", "quantity": 1 }
+    },
+    {
+        "ingredientPattern": "HCX,SLS,R_F",
+        "ingredients": {
+                "X": { "type": "item", "tags": ["tool-saw"], "isTool": true, "toolDurabilityCost": 20 },
+                "H": { "type": "item", "tags": ["tool-hammer"], "isTool": true, "toolDurabilityCost": 20 },
+                "C": { "type": "item", "tags": ["tool-chisel"], "isTool": true, "toolDurabilityCost": 20 },
+                "L": { "type": "block", "code": "game:logsection-placed-*-ud" },
+                "S": { "type": "item", "code": "game:stick", "quantity": 8 },
+                "R": { "type": "item", "code": "game:resin" },
+                "F": { "type": "block", "code": "game:woodbucket" }
+        },
+        "attributes": {
+            "liquidContainerProps": {
+                "requiresContent": { "type": "item", "code": "expandedfoods:foodoilportion-rice" },
+                "requiresLitres": 0.2
+            }
+        },
+        "width": 3,
+        "height": 3,
+        "output": { "type": "block", "code": "game:spurgear-s", "quantity": 1 }
+    },
+    {
+        "ingredientPattern": "HCX,SLS,R_F",
+        "ingredients": {
+                "X": { "type": "item", "tags": ["tool-saw"], "isTool": true, "toolDurabilityCost": 20 },
+                "H": { "type": "item", "tags": ["tool-hammer"], "isTool": true, "toolDurabilityCost": 20 },
+                "C": { "type": "item", "tags": ["tool-chisel"], "isTool": true, "toolDurabilityCost": 20 },
+                "L": { "type": "block", "code": "game:logsection-placed-*-ud" },
+                "S": { "type": "item", "code": "game:stick", "quantity": 8 },
+                "R": { "type": "item", "code": "game:resin" },
+                "F": { "type": "block", "code": "game:woodbucket" }
+        },
+        "attributes": {
+            "liquidContainerProps": {
+                "requiresContent": { "type": "item", "code": "expandedfoods:foodoilportion-seed" },
+                "requiresLitres": 0.2
+            }
+        },
+        "width": 3,
+        "height": 3,
+        "output": { "type": "block", "code": "game:spurgear-s", "quantity": 1 }
+    },
+    {
+        "ingredientPattern": "HCX,SLS,R_F",
+        "ingredients": {
+                "X": { "type": "item", "tags": ["tool-saw"], "isTool": true, "toolDurabilityCost": 20 },
+                "H": { "type": "item", "tags": ["tool-hammer"], "isTool": true, "toolDurabilityCost": 20 },
+                "C": { "type": "item", "tags": ["tool-chisel"], "isTool": true, "toolDurabilityCost": 20 },
+                "L": { "type": "block", "code": "game:logsection-placed-*-ud" },
+                "S": { "type": "item", "code": "game:stick", "quantity": 8 },
+                "R": { "type": "item", "code": "game:resin" },
+                "F": { "type": "block", "code": "game:woodbucket" }
+        },
+        "attributes": {
+            "liquidContainerProps": {
+                "requiresContent": { "type": "item", "code": "expandedfoods:foodoilportion-soy" },
+                "requiresLitres": 0.2
+            }
+        },
+        "width": 3,
+        "height": 3,
+        "output": { "type": "block", "code": "game:spurgear-s", "quantity": 1 }
+    },
+    {
+        "ingredientPattern": "HCX,SLS,R_F",
+        "ingredients": {
+                "X": { "type": "item", "tags": ["tool-saw"], "isTool": true, "toolDurabilityCost": 20 },
+                "H": { "type": "item", "tags": ["tool-hammer"], "isTool": true, "toolDurabilityCost": 20 },
+                "C": { "type": "item", "tags": ["tool-chisel"], "isTool": true, "toolDurabilityCost": 20 },
+                "L": { "type": "block", "code": "game:logsection-placed-*-ud" },
+                "S": { "type": "item", "code": "game:stick", "quantity": 8 },
+                "R": { "type": "item", "code": "game:resin" },
+                "F": { "type": "block", "code": "game:woodbucket" }
+        },
+        "attributes": {
+            "liquidContainerProps": {
+                "requiresContent": { "type": "item", "code": "expandedfoods:foodoilportion-sunflower" },
+                "requiresLitres": 0.2
+            }
+        },
+        "width": 3,
+        "height": 3,
+        "output": { "type": "block", "code": "game:spurgear-s", "quantity": 1 }
+    },
+    {
+        "ingredientPattern": "HCX,SLS,R_F",
+        "ingredients": {
+                "X": { "type": "item", "tags": ["tool-saw"], "isTool": true, "toolDurabilityCost": 20 },
+                "H": { "type": "item", "tags": ["tool-hammer"], "isTool": true, "toolDurabilityCost": 20 },
+                "C": { "type": "item", "tags": ["tool-chisel"], "isTool": true, "toolDurabilityCost": 20 },
+                "L": { "type": "block", "code": "game:logsection-placed-*-ud" },
+                "S": { "type": "item", "code": "game:stick", "quantity": 8 },
+                "R": { "type": "item", "code": "game:resin" },
+                "F": { "type": "block", "code": "game:woodbucket" }
+        },
+        "attributes": {
+            "liquidContainerProps": {
+                "requiresContent": { "type": "item", "code": "expandedfoods:foodoilportion-peanut" },
+                "requiresLitres": 0.2
+            }
+        },
+        "width": 3,
+        "height": 3,
+        "output": { "type": "block", "code": "game:spurgear-s", "quantity": 1 }
+    },
+    {
+        "ingredientPattern": "HCX,SLS,R_F",
+        "ingredients": {
+                "X": { "type": "item", "tags": ["tool-saw"], "isTool": true, "toolDurabilityCost": 20 },
+                "H": { "type": "item", "tags": ["tool-hammer"], "isTool": true, "toolDurabilityCost": 20 },
+                "C": { "type": "item", "tags": ["tool-chisel"], "isTool": true, "toolDurabilityCost": 20 },
+                "L": { "type": "block", "code": "game:logsection-placed-*-ud" },
+                "S": { "type": "item", "code": "game:stick", "quantity": 8 },
+                "R": { "type": "item", "code": "game:resin" },
+                "F": { "type": "block", "code": "game:woodbucket" }
+        },
+        "attributes": {
+            "liquidContainerProps": {
+                "requiresContent": { "type": "item", "code": "expandedfoods:foodoilportion-olive" },
+                "requiresLitres": 0.2
+            }
+        },
+        "width": 3,
+        "height": 3,
+        "output": { "type": "block", "code": "game:spurgear-s", "quantity": 1 }
+    },
+    {
+        "ingredientPattern": "HCX,SLS,R_F",
+        "ingredients": {
+                "X": { "type": "item", "tags": ["tool-saw"], "isTool": true, "toolDurabilityCost": 20 },
+                "H": { "type": "item", "tags": ["tool-hammer"], "isTool": true, "toolDurabilityCost": 20 },
+                "C": { "type": "item", "tags": ["tool-chisel"], "isTool": true, "toolDurabilityCost": 20 },
+                "L": { "type": "block", "code": "game:logsection-placed-*-ud" },
+                "S": { "type": "item", "code": "game:stick", "quantity": 8 },
+                "R": { "type": "item", "code": "game:resin" },
+                "F": { "type": "block", "code": "game:jug-*-fired" }
+        },
+        "attributes": {
+            "liquidContainerProps": {
+                "requiresContent": { "type": "item", "code": "expandedfoods:foodoilportion-flax" },
+                "requiresLitres": 0.2
+            }
+        },
+        "width": 3,
+        "height": 3,
+        "output": { "type": "block", "code": "game:spurgear-s", "quantity": 1 }
+    },
+    {
+        "ingredientPattern": "HCX,SLS,R_F",
+        "ingredients": {
+                "X": { "type": "item", "tags": ["tool-saw"], "isTool": true, "toolDurabilityCost": 20 },
+                "H": { "type": "item", "tags": ["tool-hammer"], "isTool": true, "toolDurabilityCost": 20 },
+                "C": { "type": "item", "tags": ["tool-chisel"], "isTool": true, "toolDurabilityCost": 20 },
+                "L": { "type": "block", "code": "game:logsection-placed-*-ud" },
+                "S": { "type": "item", "code": "game:stick", "quantity": 8 },
+                "R": { "type": "item", "code": "game:resin" },
+                "F": { "type": "block", "code": "game:jug-*-fired" }
+        },
+        "attributes": {
+            "liquidContainerProps": {
+                "requiresContent": { "type": "item", "code": "expandedfoods:foodoilportion-rice" },
+                "requiresLitres": 0.2
+            }
+        },
+        "width": 3,
+        "height": 3,
+        "output": { "type": "block", "code": "game:spurgear-s", "quantity": 1 }
+    },
+    {
+        "ingredientPattern": "HCX,SLS,R_F",
+        "ingredients": {
+                "X": { "type": "item", "tags": ["tool-saw"], "isTool": true, "toolDurabilityCost": 20 },
+                "H": { "type": "item", "tags": ["tool-hammer"], "isTool": true, "toolDurabilityCost": 20 },
+                "C": { "type": "item", "tags": ["tool-chisel"], "isTool": true, "toolDurabilityCost": 20 },
+                "L": { "type": "block", "code": "game:logsection-placed-*-ud" },
+                "S": { "type": "item", "code": "game:stick", "quantity": 8 },
+                "R": { "type": "item", "code": "game:resin" },
+                "F": { "type": "block", "code": "game:jug-*-fired" }
+        },
+        "attributes": {
+            "liquidContainerProps": {
+                "requiresContent": { "type": "item", "code": "expandedfoods:foodoilportion-seed" },
+                "requiresLitres": 0.2
+            }
+        },
+        "width": 3,
+        "height": 3,
+        "output": { "type": "block", "code": "game:spurgear-s", "quantity": 1 }
+    },
+    {
+        "ingredientPattern": "HCX,SLS,R_F",
+        "ingredients": {
+                "X": { "type": "item", "tags": ["tool-saw"], "isTool": true, "toolDurabilityCost": 20 },
+                "H": { "type": "item", "tags": ["tool-hammer"], "isTool": true, "toolDurabilityCost": 20 },
+                "C": { "type": "item", "tags": ["tool-chisel"], "isTool": true, "toolDurabilityCost": 20 },
+                "L": { "type": "block", "code": "game:logsection-placed-*-ud" },
+                "S": { "type": "item", "code": "game:stick", "quantity": 8 },
+                "R": { "type": "item", "code": "game:resin" },
+                "F": { "type": "block", "code": "game:jug-*-fired" }
+        },
+        "attributes": {
+            "liquidContainerProps": {
+                "requiresContent": { "type": "item", "code": "expandedfoods:foodoilportion-soy" },
+                "requiresLitres": 0.2
+            }
+        },
+        "width": 3,
+        "height": 3,
+        "output": { "type": "block", "code": "game:spurgear-s", "quantity": 1 }
+    },
+    {
+        "ingredientPattern": "HCX,SLS,R_F",
+        "ingredients": {
+                "X": { "type": "item", "tags": ["tool-saw"], "isTool": true, "toolDurabilityCost": 20 },
+                "H": { "type": "item", "tags": ["tool-hammer"], "isTool": true, "toolDurabilityCost": 20 },
+                "C": { "type": "item", "tags": ["tool-chisel"], "isTool": true, "toolDurabilityCost": 20 },
+                "L": { "type": "block", "code": "game:logsection-placed-*-ud" },
+                "S": { "type": "item", "code": "game:stick", "quantity": 8 },
+                "R": { "type": "item", "code": "game:resin" },
+                "F": { "type": "block", "code": "game:jug-*-fired" }
+        },
+        "attributes": {
+            "liquidContainerProps": {
+                "requiresContent": { "type": "item", "code": "expandedfoods:foodoilportion-sunflower" },
+                "requiresLitres": 0.2
+            }
+        },
+        "width": 3,
+        "height": 3,
+        "output": { "type": "block", "code": "game:spurgear-s", "quantity": 1 }
+    },
+    {
+        "ingredientPattern": "HCX,SLS,R_F",
+        "ingredients": {
+                "X": { "type": "item", "tags": ["tool-saw"], "isTool": true, "toolDurabilityCost": 20 },
+                "H": { "type": "item", "tags": ["tool-hammer"], "isTool": true, "toolDurabilityCost": 20 },
+                "C": { "type": "item", "tags": ["tool-chisel"], "isTool": true, "toolDurabilityCost": 20 },
+                "L": { "type": "block", "code": "game:logsection-placed-*-ud" },
+                "S": { "type": "item", "code": "game:stick", "quantity": 8 },
+                "R": { "type": "item", "code": "game:resin" },
+                "F": { "type": "block", "code": "game:jug-*-fired" }
+        },
+        "attributes": {
+            "liquidContainerProps": {
+                "requiresContent": { "type": "item", "code": "expandedfoods:foodoilportion-peanut" },
+                "requiresLitres": 0.2
+            }
+        },
+        "width": 3,
+        "height": 3,
+        "output": { "type": "block", "code": "game:spurgear-s", "quantity": 1 }
+    },
+    {
+        "ingredientPattern": "HCX,SLS,R_F",
+        "ingredients": {
+                "X": { "type": "item", "tags": ["tool-saw"], "isTool": true, "toolDurabilityCost": 20 },
+                "H": { "type": "item", "tags": ["tool-hammer"], "isTool": true, "toolDurabilityCost": 20 },
+                "C": { "type": "item", "tags": ["tool-chisel"], "isTool": true, "toolDurabilityCost": 20 },
+                "L": { "type": "block", "code": "game:logsection-placed-*-ud" },
+                "S": { "type": "item", "code": "game:stick", "quantity": 8 },
+                "R": { "type": "item", "code": "game:resin" },
+                "F": { "type": "block", "code": "game:jug-*-fired" }
+        },
+        "attributes": {
+            "liquidContainerProps": {
+                "requiresContent": { "type": "item", "code": "expandedfoods:foodoilportion-olive" },
+                "requiresLitres": 0.2
+            }
+        },
+        "width": 3,
+        "height": 3,
+        "output": { "type": "block", "code": "game:spurgear-s", "quantity": 1 }
+    },
+    {
+        "ingredientPattern": "HCX,SLS,R_F",
+        "ingredients": {
+                "X": { "type": "item", "tags": ["tool-saw"], "isTool": true, "toolDurabilityCost": 20 },
+                "H": { "type": "item", "tags": ["tool-hammer"], "isTool": true, "toolDurabilityCost": 20 },
+                "C": { "type": "item", "tags": ["tool-chisel"], "isTool": true, "toolDurabilityCost": 20 },
+                "L": { "type": "block", "code": "game:logsection-placed-*-ud" },
+                "S": { "type": "item", "code": "game:stick", "quantity": 8 },
+                "R": { "type": "item", "code": "game:resin" },
+                "F": { "type": "block", "code": "game:bowl-*-fired" }
+        },
+        "attributes": {
+            "liquidContainerProps": {
+                "requiresContent": { "type": "item", "code": "expandedfoods:foodoilportion-flax" },
+                "requiresLitres": 0.2
+            }
+        },
+        "width": 3,
+        "height": 3,
+        "output": { "type": "block", "code": "game:spurgear-s", "quantity": 1 }
+    },
+    {
+        "ingredientPattern": "HCX,SLS,R_F",
+        "ingredients": {
+                "X": { "type": "item", "tags": ["tool-saw"], "isTool": true, "toolDurabilityCost": 20 },
+                "H": { "type": "item", "tags": ["tool-hammer"], "isTool": true, "toolDurabilityCost": 20 },
+                "C": { "type": "item", "tags": ["tool-chisel"], "isTool": true, "toolDurabilityCost": 20 },
+                "L": { "type": "block", "code": "game:logsection-placed-*-ud" },
+                "S": { "type": "item", "code": "game:stick", "quantity": 8 },
+                "R": { "type": "item", "code": "game:resin" },
+                "F": { "type": "block", "code": "game:bowl-*-fired" }
+        },
+        "attributes": {
+            "liquidContainerProps": {
+                "requiresContent": { "type": "item", "code": "expandedfoods:foodoilportion-rice" },
+                "requiresLitres": 0.2
+            }
+        },
+        "width": 3,
+        "height": 3,
+        "output": { "type": "block", "code": "game:spurgear-s", "quantity": 1 }
+    },
+    {
+        "ingredientPattern": "HCX,SLS,R_F",
+        "ingredients": {
+                "X": { "type": "item", "tags": ["tool-saw"], "isTool": true, "toolDurabilityCost": 20 },
+                "H": { "type": "item", "tags": ["tool-hammer"], "isTool": true, "toolDurabilityCost": 20 },
+                "C": { "type": "item", "tags": ["tool-chisel"], "isTool": true, "toolDurabilityCost": 20 },
+                "L": { "type": "block", "code": "game:logsection-placed-*-ud" },
+                "S": { "type": "item", "code": "game:stick", "quantity": 8 },
+                "R": { "type": "item", "code": "game:resin" },
+                "F": { "type": "block", "code": "game:bowl-*-fired" }
+        },
+        "attributes": {
+            "liquidContainerProps": {
+                "requiresContent": { "type": "item", "code": "expandedfoods:foodoilportion-seed" },
+                "requiresLitres": 0.2
+            }
+        },
+        "width": 3,
+        "height": 3,
+        "output": { "type": "block", "code": "game:spurgear-s", "quantity": 1 }
+    },
+    {
+        "ingredientPattern": "HCX,SLS,R_F",
+        "ingredients": {
+                "X": { "type": "item", "tags": ["tool-saw"], "isTool": true, "toolDurabilityCost": 20 },
+                "H": { "type": "item", "tags": ["tool-hammer"], "isTool": true, "toolDurabilityCost": 20 },
+                "C": { "type": "item", "tags": ["tool-chisel"], "isTool": true, "toolDurabilityCost": 20 },
+                "L": { "type": "block", "code": "game:logsection-placed-*-ud" },
+                "S": { "type": "item", "code": "game:stick", "quantity": 8 },
+                "R": { "type": "item", "code": "game:resin" },
+                "F": { "type": "block", "code": "game:bowl-*-fired" }
+        },
+        "attributes": {
+            "liquidContainerProps": {
+                "requiresContent": { "type": "item", "code": "expandedfoods:foodoilportion-soy" },
+                "requiresLitres": 0.2
+            }
+        },
+        "width": 3,
+        "height": 3,
+        "output": { "type": "block", "code": "game:spurgear-s", "quantity": 1 }
+    },
+    {
+        "ingredientPattern": "HCX,SLS,R_F",
+        "ingredients": {
+                "X": { "type": "item", "tags": ["tool-saw"], "isTool": true, "toolDurabilityCost": 20 },
+                "H": { "type": "item", "tags": ["tool-hammer"], "isTool": true, "toolDurabilityCost": 20 },
+                "C": { "type": "item", "tags": ["tool-chisel"], "isTool": true, "toolDurabilityCost": 20 },
+                "L": { "type": "block", "code": "game:logsection-placed-*-ud" },
+                "S": { "type": "item", "code": "game:stick", "quantity": 8 },
+                "R": { "type": "item", "code": "game:resin" },
+                "F": { "type": "block", "code": "game:bowl-*-fired" }
+        },
+        "attributes": {
+            "liquidContainerProps": {
+                "requiresContent": { "type": "item", "code": "expandedfoods:foodoilportion-sunflower" },
+                "requiresLitres": 0.2
+            }
+        },
+        "width": 3,
+        "height": 3,
+        "output": { "type": "block", "code": "game:spurgear-s", "quantity": 1 }
+    },
+    {
+        "ingredientPattern": "HCX,SLS,R_F",
+        "ingredients": {
+                "X": { "type": "item", "tags": ["tool-saw"], "isTool": true, "toolDurabilityCost": 20 },
+                "H": { "type": "item", "tags": ["tool-hammer"], "isTool": true, "toolDurabilityCost": 20 },
+                "C": { "type": "item", "tags": ["tool-chisel"], "isTool": true, "toolDurabilityCost": 20 },
+                "L": { "type": "block", "code": "game:logsection-placed-*-ud" },
+                "S": { "type": "item", "code": "game:stick", "quantity": 8 },
+                "R": { "type": "item", "code": "game:resin" },
+                "F": { "type": "block", "code": "game:bowl-*-fired" }
+        },
+        "attributes": {
+            "liquidContainerProps": {
+                "requiresContent": { "type": "item", "code": "expandedfoods:foodoilportion-peanut" },
+                "requiresLitres": 0.2
+            }
+        },
+        "width": 3,
+        "height": 3,
+        "output": { "type": "block", "code": "game:spurgear-s", "quantity": 1 }
+    },
+    {
+        "ingredientPattern": "HCX,SLS,R_F",
+        "ingredients": {
+                "X": { "type": "item", "tags": ["tool-saw"], "isTool": true, "toolDurabilityCost": 20 },
+                "H": { "type": "item", "tags": ["tool-hammer"], "isTool": true, "toolDurabilityCost": 20 },
+                "C": { "type": "item", "tags": ["tool-chisel"], "isTool": true, "toolDurabilityCost": 20 },
+                "L": { "type": "block", "code": "game:logsection-placed-*-ud" },
+                "S": { "type": "item", "code": "game:stick", "quantity": 8 },
+                "R": { "type": "item", "code": "game:resin" },
+                "F": { "type": "block", "code": "game:bowl-*-fired" }
+        },
+        "attributes": {
+            "liquidContainerProps": {
+                "requiresContent": { "type": "item", "code": "expandedfoods:foodoilportion-olive" },
+                "requiresLitres": 0.2
+            }
+        },
+        "width": 3,
+        "height": 3,
+        "output": { "type": "block", "code": "game:spurgear-s", "quantity": 1 }
     }
 ]
